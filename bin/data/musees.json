@@ -1,0 +1,1306 @@
+[
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "f0773b774a05133e32d39151366ac0cdf90da235",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e du Mar\u00e9chal Leclerc de Hautecloque et de la Lib\u00e9ration de Paris - Mus\u00e9e Jean Moulin",
+      "adr": "23, All\u00e9e de la 2\u00e8me DB",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143212830",
+      "coordonnees_finales": [48.840614, 2.319773],
+      "ref_musee": "7511503",
+      "telephone1": "0140643944",
+      "sitweb": "www.museesleclercmoulin.paris.fr",
+      "cp": "75015",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.319773, 48.840614] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "5492e653c0ddf6a56150d442434c1118b3ed19ef",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au dimanche de 13h \u00e0 18h. Accessible le mardi pour les groupes sur r\u00e9servation",
+      "nom_du_musee": "Mus\u00e9e National de la L\u00e9gion d'Honneur et des Ordres de Chevalerie",
+      "adr": "2, Rue de la L\u00e9gion d'Honneur",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140628496",
+      "coordonnees_finales": [48.860433, 2.324889],
+      "sitweb": "www.legiondhonneur.fr",
+      "ref_musee": "7510706",
+      "telephone1": "0140628425",
+      "fermeture_annuelle": "1er janvier, 1er mai, 15 ao\u00fbt, 1er novembre et 25 d\u00e9cembre",
+      "cp": "75007",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.324889, 48.860433] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "00b116ae37b3f25618beebf5a2178184c172eadf",
+    "fields": {
+      "departement": "PARIS",
+      "ville": "PARIS",
+      "nom_du_musee": "Galerie d\u2019entomologie (Mus\u00e9um national d'histoire naturelle)",
+      "adr": "57, Rue Cuvier",
+      "region": "\u00ceLE-DE-France",
+      "coordonnees_finales": [48.843835, 2.355201],
+      "ref_musee": "7510512",
+      "sitweb": "www.mnhn.fr",
+      "cp": "75005",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.355201, 48.843835] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "7a89dc63974973d38628e5a7a7ae726c97f25498",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au vendredi de 11h \u00e0 18h, samedi et dimanche de 10h \u00e0 18h, nocturnele jeudi jusqu'\u00e0 21h",
+      "nom_du_musee": "Mus\u00e9es Arts D\u00e9coratifs  Mode et du Textile",
+      "jours_nocturnes": "Jeudi jusqu'\u00e0 21h",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0144555784",
+      "coordonnees_finales": [48.863218, 2.3333],
+      "ref_musee": "7510107",
+      "telephone1": "0144555750",
+      "sitweb": "www.lesartsdecoratifs.fr",
+      "adr": "107, Rue de Rivoli",
+      "cp": "75001",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.3333, 48.863218] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "b45ff7e3696638d0fb4e8d4e44ea9266dfc7c4a2",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert mardi, mercredi, dimanche de 11h \u00e0 19h - jeudi, vendredi, samedi de 11h \u00e0 21h. Groupes tous les matin de 9h30 \u00e0 11h sauf le dimanche. Ouverture exceptionnelle les lundis de 11h \u00e0 19h pendant les vacances de P\u00e2ques",
+      "nom_du_musee": "Mus\u00e9e du Quai Branly - Jacques Chirac",
+      "jours_nocturnes": "Jeudi, vendredi, samedi jusqu'\u00e0 21h",
+      "ville": "PARIS cedex 07",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0156617001",
+      "sitweb": "www.quaibranly.fr",
+      "ref_musee": "7510709",
+      "telephone1": "0156617000",
+      "fermeture_annuelle": "1er mai",
+      "adr": "222, rue de l'Universit\u00e9",
+      "cp": "75343",
+      "date_appellation": "09/12/2004"
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "d69427fdae959929036f0d846fd1e73b772dcfc4",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert tous les jours du mardi au vendredi de 10h \u00e0 17h15, le week-end de 10h \u00e0 19h, y compris certains jours f\u00e9ri\u00e9s",
+      "nom_du_musee": "Etablissement public de la Porte Dor\u00e9e - Aquarium Tropical",
+      "adr": "Palais de la Porte Dor\u00e9e 293, avenue Daumesnil",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143432753",
+      "coordonnees_finales": [48.8347421662, 2.42053665524],
+      "ref_musee": "7511201",
+      "telephone1": "0144748480",
+      "sitweb": "www.aquarium-portedoree.fr",
+      "cp": "75012",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.42053665524, 48.8347421662]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "8081415db7ba826797559bbf92ca2ddbfe3e7d36",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du lundi au vendredi de 11h \u00e0 18h et le dimanche de 10h \u00e0 18h. Nocturne jusqu'\u00e0 21h le mercredi lors des expositions temporaires et jusqu'\u00e0 19h le dimanche et jours f\u00e9ri\u00e9s. A partir du 1er septembre ouvert du mardi au vendredi de 11h \u00e0 18h samedi e",
+      "nom_du_musee": "Mus\u00e9e d'Art et d'Histoire du Juda\u00efsme",
+      "jours_nocturnes": "Jusqu'\u00e0 21h pendant les expositions temporaires le mercredi",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0142729747",
+      "coordonnees_finales": [48.8630306677, 2.35966713643],
+      "sitweb": "www.mahj.org",
+      "ref_musee": "7510303",
+      "telephone1": "0153018653",
+      "fermeture_annuelle": "1er janvier, 1er mai, Roch Hachana, Yom Kippour",
+      "adr": "H\u00f4tel de Saint-Aignan 71, Rue du Temple",
+      "cp": "75003",
+      "date_appellation": "01/02/2003"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35966713643, 48.8630306677]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "2465030e161691dbaee94859d9109de7549c2d51",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Mardi au vendredi de 11h \u00e0 18h - samedi et dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9es des Arts D\u00e9coratifs",
+      "jours_nocturnes": "Jeudi jusqu'\u00e0 21 h",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0144555784",
+      "coordonnees_finales": [48.863218, 2.3333],
+      "ref_musee": "7510102",
+      "telephone1": "0144555750",
+      "sitweb": "www.lesartsdecoratifs.fr/",
+      "adr": "107, Rue de Rivoli",
+      "cp": "75001",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.3333, 48.863218] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "9ccb3aaf3c0e41c8062a569a50d3199d7c44739d",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert de 10h \u00e0 18h",
+      "nom_du_musee": "Crypte Arch\u00e9ologique du Parvis Notre-Dame",
+      "adr": "7, Place Jean Paul II Parvis Notre-Dame",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143293055",
+      "coordonnees_finales": [48.8542262543, 2.35736312527],
+      "sitweb": "www.crypte.paris.fr",
+      "ref_musee": "7510403",
+      "telephone1": "0155425010",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "cp": "75004",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35736312527, 48.8542262543]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "f9d3880b9e20b99ce3d1de99571ba24b77e62584",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e de la Vie Romantique",
+      "adr": "16, Rue Chaptal",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0148742842",
+      "coordonnees_finales": [48.880899, 2.333278],
+      "ref_musee": "7510905",
+      "telephone1": "0155319567",
+      "sitweb": "www.vie-romantique.paris.fr",
+      "cp": "75009",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.333278, 48.880899] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "832b5e0f56370f6f32b150cc7f2c24522c550a40",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Palais Galliera - Mus\u00e9e de la Mode de la ville de Paris",
+      "jours_nocturnes": "jeudi jusqu'\u00e0 21h",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0147233837",
+      "coordonnees_finales": [48.8603821025, 2.26201220212],
+      "sitweb": "www.palaisgalliera.paris.fr",
+      "ref_musee": "7511617",
+      "telephone1": "0156528600",
+      "fermeture_annuelle": "Mus\u00e9e ferm\u00e9 en dehors des expositions temporaires. Certains jours f\u00e9ri\u00e9s",
+      "adr": "10, Avenue Pierre 1er de Serbie",
+      "cp": "75116",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.26201220212, 48.8603821025]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "04d5d9c105e9936f42044f6e471e4da34b979a04",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e de l'Homme (Mus\u00e9um National d'Histoire Naturelle)",
+      "adr": "Place du Trocad\u00e9ro",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "coordonnees_finales": [48.864591, 2.293508],
+      "sitweb": "www.museedelhomme.fr ou www.mnhn.fr",
+      "ref_musee": "7511609",
+      "telephone1": "0144057272",
+      "fermeture_annuelle": "1er janvier, 1er mai et 25 d\u00e9cembre",
+      "cp": "75116",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.293508, 48.864591] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "8b09b9731c887b3181d0885d4e79f9508d23f1d2",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10 \u00e0 18 h. Nocturne le mercredi jusqu'a 22h pour les expositions temporaires",
+      "nom_du_musee": "Mus\u00e9e d'Art Moderne de la ville de Paris",
+      "jours_nocturnes": "Mercredi jusqu'\u00e0 22h pour les expositions temporaires",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0147233598",
+      "coordonnees_finales": [48.8603821025, 2.26201220212],
+      "ref_musee": "7511615",
+      "telephone1": "0153674000",
+      "sitweb": "www.mam.paris.fr",
+      "adr": "11, Avenue du Pdt Wilson",
+      "cp": "75116",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.26201220212, 48.8603821025]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "73797b933d7fd0b64ebe744266cd733cd5d742f3",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au samedi de 12h \u00e0 18h, dimanche de 10h \u00e0 18h. Nocturne expositions temporaires le vendredi",
+      "nom_du_musee": "Mus\u00e9e de la Musique",
+      "jours_nocturnes": "Vendredi jusqu'\u00e0 22h dans des expositions",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0144844501",
+      "coordonnees_finales": [48.889306, 2.393807],
+      "ref_musee": "7510802",
+      "telephone1": "0144844500",
+      "sitweb": "https://philharmoniedeparis.fr/fr/musee-de-la-musique",
+      "adr": "221, Avenue Jean-Jaur\u00e8s",
+      "cp": "75019",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.393807, 48.889306] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "46210f7722bb273a02ca0af2a50857510b97b5e6",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 20h",
+      "nom_du_musee": "Les Catacombes",
+      "adr": "1, avenue du Colonel Henri Rol-Tanguy (Place Denfert-Rochereau)",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143224817",
+      "coordonnees_finales": [48.8291473577, 2.32698552913],
+      "sitweb": "www.catacombes.paris.fr",
+      "ref_musee": "7511402",
+      "telephone1": "0143224763",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s, dimanche de P\u00e2ques et de Pentec\u00f4tes",
+      "cp": "75014",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32698552913, 48.8291473577]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "b4d8a5f0c4b6112556c9cad7e241c85452b05496",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au jeudi de 10h \u00e0 18h, le vendredi de 10h \u00e0 21h30, week-end et jours f\u00e9ri\u00e9s de 10h \u00e0 19h",
+      "nom_du_musee": "Institut du Monde Arabe",
+      "jours_nocturnes": "Vendredi jusqu'\u00e0 21h30",
+      "ville": "PARIS Cedex 05",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143547645",
+      "ref_musee": "7510519",
+      "telephone1": "0140513838",
+      "sitweb": "www.imarabe.org",
+      "adr": "1, Rue des Foss\u00e9s Saint-Bernard Place Mohammed V",
+      "cp": "75236",
+      "date_appellation": "21/03/2011"
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "b28e0a16196f7dc92632356f6d4cc3c80edccb20",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert de 10h \u00e0 18h du mardi au dimanche",
+      "nom_du_musee": "Maison de Victor Hugo",
+      "adr": "6, Place des Vosges",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0142720664",
+      "coordonnees_finales": [48.854821, 2.366126],
+      "sitweb": "www.maisonsvictorhugo.paris.fr",
+      "ref_musee": "7510405",
+      "telephone1": "0142721016",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "cp": "75004",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.366126, 48.854821] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "638e7ba895498b02b49ea0f8c07c81066c597696",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Le Cabinet des dessins Jean Bonna est ouvert de 13h \u00e0 18h du lundi au vendredi",
+      "nom_du_musee": "Mus\u00e9e de l'Ecole Nationale Sup\u00e9rieure des Beaux-Arts",
+      "adr": "14, Rue Bonaparte",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0147035080",
+      "coordonnees_finales": [48.856574, 2.334551],
+      "ref_musee": "7510610",
+      "telephone1": "0147035000",
+      "sitweb": "www.beauxartsparis.fr",
+      "cp": "75006",
+      "date_appellation": "2017-07-10 00:00:00"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.334551, 48.856574] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "8b7d38ce6d3f9614c047a03398704295f3b22586",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Maison de Balzac",
+      "adr": "47, rue Raynouard",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0145251922",
+      "coordonnees_finales": [48.855381, 2.280756],
+      "ref_musee": "7511616",
+      "telephone1": "0155744180",
+      "sitweb": "http://maisondebalzac.paris.fr/",
+      "cp": "75016",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.280756, 48.855381] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "8da2d01311e27c92e259905d3297ef514db2f61d",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 9h \u00e0 18h",
+      "nom_du_musee": "Etablissement public du mus\u00e9e d'Orsay et de l'Orangerie - Mus\u00e9e de l'Orangerie",
+      "jours_nocturnes": "Vendredi jusqu'\u00e0 21h pour les individuels",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0142613082",
+      "coordonnees_finales": [48.863983, 2.326566],
+      "sitweb": "www.musee-orangerie.fr",
+      "ref_musee": "7510103",
+      "telephone1": "0144504300",
+      "fermeture_annuelle": "1er mai et le matin du 14 juillet et du 25 d\u00e9cembre",
+      "adr": "Jardin des Tuileries",
+      "cp": "75001",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.326566, 48.863983] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "e1a5c0bfb0f906b59a500d847d57a30620ea1567",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du lundi au samedi de 10h \u00e0 18h et le premier jeudi jusqu'\u00e0 20h",
+      "nom_du_musee": "L'Adresse Mus\u00e9e de la Poste",
+      "jours_nocturnes": "Premier jeudi du mois jusqu'\u00e0 20h",
+      "ville": "PARIS Cedex 15",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0142792400",
+      "sitweb": "www.ladressemuseedelaposte.fr ou www.museedelaposte.fr",
+      "ref_musee": "7511504",
+      "telephone1": "0142792336",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "adr": "34, Boulevard de Vaugirard",
+      "cp": "75731",
+      "date_appellation": "06/01/2002"
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "ce2e1fbc3fe0893b7994125ad6cb5209df9ddfeb",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert lundi, mercredi au vendredi de 10h \u00e0 18h, samedi-dimanche de 10h \u00e0 19h",
+      "nom_du_musee": "Mus\u00e9e National de la Marine",
+      "adr": "17, Place du Trocad\u00e9ro",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0153656965",
+      "coordonnees_finales": [48.864591, 2.293508],
+      "sitweb": "www.musee-marine.fr",
+      "ref_musee": "7511618",
+      "telephone1": "0153656969",
+      "fermeture_annuelle": "1er janvier, 1er mai, 25 d\u00e9cembre",
+      "cp": "75116",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.293508, 48.864591] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "329ca919a63d8b3bbc43794b44b1eda74890bb8f",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert le mercredi, vendredi, samedi et dimanche de 11h \u00e0 19h, le jeudi de 11h \u00e0 21h",
+      "nom_du_musee": "Mus\u00e9e des Monuments Fran\u00e7ais",
+      "jours_nocturnes": "Jeudi jusqu'\u00e0 21h",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0158515220",
+      "coordonnees_finales": [48.8603821025, 2.26201220212],
+      "sitweb": "http://www.citechaillot.fr/fr/musee/",
+      "ref_musee": "7511606",
+      "telephone1": "0158515200",
+      "fermeture_annuelle": "1er janvier, 1er mai, 25 d\u00e9cembre",
+      "adr": "Palais de Chaillot 1, Place du Trocad\u00e9ro et du 11 Novembre",
+      "cp": "75116",
+      "date_appellation": "09/07/2004"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.26201220212, 48.8603821025]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "4c67544efc5ac92d19e60a1525aa5bc5093bd0cc",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 9h15 \u00e0 17h45",
+      "nom_du_musee": "Mus\u00e9e National du Moyen Age-Thermes de Cluny",
+      "adr": "6, Place Paul Painlev\u00e9",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143258527",
+      "coordonnees_finales": [48.850325, 2.343921],
+      "sitweb": "www.musee-moyenage.fr",
+      "ref_musee": "7510501",
+      "telephone1": "0153737800",
+      "fermeture_annuelle": "1er janvier, 1er mai et 25 d\u00e9cembre",
+      "cp": "75005",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.343921, 48.850325] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "89fdfa1e830ef0882979d2c48510e7b43e87fd50",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 11h \u00e0 19h",
+      "nom_du_musee": "Mus\u00e9e du 11 Conti - Monnaie de Paris",
+      "adr": "11, Quai de Conti",
+      "ville": "PARIS Cedex 06",
+      "region": "\u00ceLE-DE-France",
+      "sitweb": "www.monnaiedeparis.fr",
+      "ref_musee": "7510609",
+      "telephone1": "140465666",
+      "fermeture_annuelle": "1er janvier, le 1er mai et le 25 d\u00e9cembre.",
+      "cp": "75270",
+      "date_appellation": "06/01/2002"
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "77de24f37fb80f750eaf1314a420c9eadd2148f4",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e Carnavalet-Histoire de Paris",
+      "adr": "16, Rue de S\u00e9vign\u00e9",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0144595810",
+      "coordonnees_finales": [48.857573, 2.363359],
+      "sitweb": "www.carnavalet.paris.fr",
+      "ref_musee": "7510307",
+      "telephone1": "0144595858",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "cp": "75003",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.363359, 48.857573] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "a199dfc115e4778cb2a370b6d5d7d6fb32df18de",
+    "fields": {
+      "departement": "PARIS",
+      "ville": "PARIS",
+      "nom_du_musee": "Etablissement public du mus\u00e9e d'Orsay et de l'Orangerie - Mus\u00e9e H\u00e9bert",
+      "adr": "H\u00f4tel de Montmorency-Bours 85, Rue du Cherche Midi",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0145484239",
+      "coordonnees_finales": [48.8492531918, 2.33300877472],
+      "ref_musee": "7510603",
+      "telephone1": "0142222382",
+      "sitweb": "http://www.musee-orsay.fr/fr/info/musee-hebert.html",
+      "cp": "75006",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33300877472, 48.8492531918]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "f1393af2a9545c8d3cc713388b022ba2a3b196c0",
+    "fields": {
+      "departement": "PARIS",
+      "ville": "PARIS",
+      "nom_du_musee": "Mus\u00e9e de la Publicit\u00e9 (Les Arts D\u00e9coratifs)",
+      "adr": "107, Rue de Rivoli",
+      "region": "\u00ceLE-DE-France",
+      "coordonnees_finales": [48.879953, 2.350922],
+      "ref_musee": "7511001",
+      "sitweb": "www.museedelapub.org et www.lesartsdecoratifs.fr/",
+      "cp": "75010",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.350922, 48.879953] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "ff87a7022f65f92db05d3320cca05aadb4eb1561",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au vendredi de 10h \u00e0 12h30 et de  14h \u00e0 18h, le samedi de 10h \u00e0 13h et de 14h \u00e0 19h, le dimanche de 10h \u00e0 12h30 et de  13h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e de la Franc-Ma\u00e7onnerie",
+      "adr": "16, Rue Cadet",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0142463308",
+      "coordonnees_finales": [48.874952, 2.343057],
+      "sitweb": "www.museefm.org",
+      "ref_musee": "7510902",
+      "telephone1": "0145237409",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "cp": "75009",
+      "date_appellation": "01/02/2003"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.343057, 48.874952] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "152e8987f9b3228fdb4b7e2377a868d372c57e8d",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert lundi, jeudi, samedi et dimanche de  9h \u00e0 18h, mercredi et vendredi de 9h \u00e0 22h. Le hall Napol\u00e9on est ouvert de 9h \u00e0 22h",
+      "nom_du_musee": "Mus\u00e9e du Louvre",
+      "jours_nocturnes": "Mercredi et vendredi jusqu'\u00e0 21h45",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140205452",
+      "coordonnees_finales": [48.858901, 2.341162],
+      "sitweb": "www.louvre.fr",
+      "ref_musee": "7510106",
+      "telephone1": "0140205050",
+      "fermeture_annuelle": "le 1er janvier, le 1er mai, le 8 mai et le 25 d\u00e9cembre 2007",
+      "adr": "34, Quai du Louvre",
+      "cp": "75001",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.341162, 48.858901] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "2ec3126d314a8f772ec55f4824d53713991953be",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e National Auguste Rodin",
+      "jours_nocturnes": "Le mercredi jusqu'\u00e0 20h45",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0144186130",
+      "coordonnees_finales": [48.8561051636, 2.31254406306],
+      "sitweb": "www.musee-rodin.fr",
+      "ref_musee": "7510703",
+      "telephone1": "0144186110",
+      "fermeture_annuelle": "1er janvier, 1er mai, 25 d\u00e9cembre",
+      "adr": "H\u00f4tel Biron 77, rue de Varenne",
+      "cp": "75007",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31254406306, 48.8561051636]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "30b003e50fda524a0a7bb34bc9b8225493e766a0",
+    "fields": {
+      "departement": "PARIS",
+      "ville": "PARIS",
+      "nom_du_musee": "Mus\u00e9e Bouchard",
+      "adr": "25, Rue de l'Yvette",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0146477050",
+      "coordonnees_finales": [48.853611, 2.265988],
+      "date_retrait_appellation_par_haut_conseil": "2016-05-26 00:00:00",
+      "ref_musee": "7511607",
+      "telephone1": "0146476346",
+      "sitweb": "www.musee-bouchard.com",
+      "cp": "75016",
+      "date_appellation": "01/02/2003"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.265988, 48.853611] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "12a854b28d07ed8ae99a628e4c446cb1bf432257",
+    "fields": {
+      "departement": "PARIS",
+      "ville": "PARIS",
+      "nom_du_musee": "Mus\u00e9e de l'Assistance Publique - H\u00f4pitaux de Paris",
+      "adr": "10, Rue des Foss\u00e9s Saint-Marcel",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140274648",
+      "coordonnees_finales": [48.838806, 2.356007],
+      "ref_musee": "7510517",
+      "telephone1": "0140275005",
+      "sitweb": "http://www.aphp.fr/musee",
+      "cp": "75005",
+      "date_appellation": "02/10/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.356007, 48.838806] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "96fe275afcd9764cffeb1ffa3ecef4202565d3e5",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 11h \u00e0 18h et le mercredi de 11h \u00e0 21h30",
+      "nom_du_musee": "Mus\u00e9e de la Chasse et de la Nature",
+      "jours_nocturnes": "Le mercredi jusqu'\u00e0 21h30",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0142774570",
+      "coordonnees_finales": [48.861337, 2.358433],
+      "sitweb": "www.chassenature.org/",
+      "ref_musee": "7510301",
+      "telephone1": "0153019240",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "adr": "60, rue des Archives",
+      "cp": "75003",
+      "date_appellation": "01/02/2003"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.358433, 48.861337] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "39e4f4c38f83197bd9cfb1950b6f750849c24c5c",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e Zadkine",
+      "adr": "100 bis, rue d'Assas",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140468427",
+      "coordonnees_finales": [48.843257, 2.333892],
+      "sitweb": "www.zadkine.paris.fr",
+      "ref_musee": "7510608",
+      "telephone1": "0155427720",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "cp": "75006",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.333892, 48.843257] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "0b2edf14267b071da3da278fc969ed10a408e214",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au vendredi de 11h30 \u00e0 18h, samedi et dimanche de 9h30 \u00e0 18h, jours f\u00e9ri\u00e9s (sauf lundis) de 9h30 \u00e0 18h En p\u00e9riode de vacances scolaires (zone C), le Mus\u00e9e est ouvert du mardi au dimanche de 9h30 \u00e0 18h00",
+      "nom_du_musee": "Mus\u00e9e National Picasso",
+      "adr": "H\u00f4tel Sal\u00e9 5, Rue de Thorigny",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0148047546",
+      "coordonnees_finales": [48.8630306677, 2.35966713643],
+      "sitweb": "www.musee-picasso.fr",
+      "ref_musee": "7510305",
+      "telephone1": "0185560036",
+      "fermeture_annuelle": "1er janvier 1er mai et 25 d\u00e9cembre",
+      "cp": "75003",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35966713643, 48.8630306677]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "561b0a3db64ad66bdac59268e25f09d816344eed",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 10h \u00e0 18h",
+      "nom_du_musee": "Grande Galerie de l'Evolution (Mus\u00e9um National d'Histoire Naturelle)",
+      "adr": "Jardin des Plantes 36, rue Geoffroy Saint-Hilaire",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140795448",
+      "coordonnees_finales": [48.844407753, 2.350655453],
+      "sitweb": "www.mnhn.fr",
+      "ref_musee": "7510503",
+      "telephone1": "0140795479",
+      "fermeture_annuelle": "1er mai",
+      "cp": "75005",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.350655453, 48.844407753] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "8a59baacd11754e8a117421214b3b785b4492083",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au dimanche de 14h \u00e0 19h lors des expositions uniquement",
+      "nom_du_musee": "Mus\u00e9e d'Art et d'Histoire de l'H\u00f4pital Sainte-Anne",
+      "adr": "1, Rue Cabanis",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "coordonnees_finales": [48.830264, 2.340376],
+      "ref_musee": "7511403",
+      "telephone1": "0145658541",
+      "sitweb": "www.ch-sainte-anne.fr ou www.musee-mahhsa.com ou www.centre-etude-expression.com",
+      "cp": "75014",
+      "date_appellation": "26/05/2016"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.340376, 48.830264] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "7ced3d2c13ff9df9c62edaefa901432c186378d3",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert les jeudis, samedis et dimanches apr\u00e8s-midi uniquement en visite conf\u00e9rence, sur r\u00e9servation",
+      "nom_du_musee": "Mus\u00e9e d'Ennery",
+      "adr": "59, Avenue Foch",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "coordonnees_finales": [48.871887, 2.282381],
+      "sitweb": "http://www.guimet.fr/fr/musee-dennery/histoire-du-musee-dennery",
+      "ref_musee": "7511601",
+      "telephone1": "0156525345",
+      "fermeture_annuelle": "1er janvier, 1er mai, 25 d\u00e9cembre",
+      "cp": "75116",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.282381, 48.871887] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "b169ee989897d974a49e08938aee57858e4ddd87",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e Cognacq-Jay, Mus\u00e9e du XVIIIe si\u00e8cle de la ville de Paris",
+      "adr": "8, Rue Elz\u00e9vir",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140278944",
+      "coordonnees_finales": [48.858257, 2.361524],
+      "sitweb": "www.museecognacqjay.paris.fr",
+      "ref_musee": "7510306",
+      "telephone1": "0140270721",
+      "fermeture_annuelle": "Certains jours f\u00e9ri\u00e9s",
+      "cp": "75003",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.361524, 48.858257] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "4577c1f069f9be1f42867433589a2eef50d29180",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 11h \u00e0 22h (mus\u00e9e et expositions)",
+      "nom_du_musee": "Mus\u00e9e National d'Art Moderne (Centre National d'Art et de Culture Georges Pompidou)",
+      "jours_nocturnes": "Jeudi jusqu'\u00e0 23h selon les expositions",
+      "ville": "PARIS Cedex 04",
+      "region": "\u00ceLE-DE-France",
+      "sitweb": "www.centrepompidou.fr",
+      "ref_musee": "7510402",
+      "telephone1": "0144781233",
+      "fermeture_annuelle": "1er mai",
+      "adr": "Place Georges Pompidou",
+      "cp": "75191",
+      "date_appellation": "06/01/2002"
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "3714b4c65307e92cf1d45167bce8f81ef7340664",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 10h \u00e0 17h",
+      "nom_du_musee": "Galerie de Min\u00e9ralogie et de G\u00e9ologie (Mus\u00e9um d'Histoire Naturelle)",
+      "adr": "Jardin des Plantes 36, Rue Geoffroy Saint-Hilaire",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140795448",
+      "coordonnees_finales": [48.844407753, 2.350655453],
+      "sitweb": "www.mnhn.fr",
+      "ref_musee": "7510502",
+      "telephone1": "0140795601",
+      "fermeture_annuelle": "1er mai",
+      "cp": "75005",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.350655453, 48.844407753] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "317a86fb8e350b71707027d37395fd3346735c80",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e Cernuschi, Mus\u00e9e des Arts de l'Asie de la ville de Paris",
+      "adr": "7, Avenue Velasquez",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0153962196",
+      "coordonnees_finales": [48.879693, 2.312194],
+      "ref_musee": "7510807",
+      "telephone1": "0153962150",
+      "sitweb": "www.cernuschi.paris.fr",
+      "cp": "75008",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.312194, 48.879693] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "e42f92a542b31d5cfb23c05418a8d3fd43211196",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 10h \u00e0 18h",
+      "nom_du_musee": "Etablissement Public du Mus\u00e9e des Arts Asiatiques Guimet",
+      "adr": "6, Place d'I\u00e9na",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0156525354",
+      "coordonnees_finales": [48.864591, 2.293508],
+      "sitweb": "www.museeguimet.fr",
+      "ref_musee": "7511603",
+      "telephone1": "0156525300",
+      "fermeture_annuelle": "1er janvier, 1er mai, 25 d\u00e9cembre",
+      "cp": "75116",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.293508, 48.864591] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "ebb76a481cb5fccaa1322a6cec534fc0f2d509a8",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert d'avril \u00e0 octobre de 10h \u00e0 18h, de novembre \u00e0 mars de 10h \u00e0 17h (17h30 pendant les vacances de No\u00ebl et de printemps). Du 15 juin au 15 septembre l'\u00e9glise du d\u00f4me reste ouverte jusqu'\u00e0 19h",
+      "nom_du_musee": "Mus\u00e9e de l'Arm\u00e9e",
+      "jours_nocturnes": "Mardi jusqu'\u00e0 21h d'avril \u00e0 septembre",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0144423764",
+      "coordonnees_finales": [48.8561051636, 2.31254406306],
+      "sitweb": "/www.musee-armee.fr",
+      "ref_musee": "7510701",
+      "telephone1": "0144423877",
+      "fermeture_annuelle": "1er janvier, 1er mai, 1er novembre, 25 d\u00e9cembre",
+      "adr": "H\u00f4tel National des Invalides 129, rue de Grenelle",
+      "cp": "75007",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31254406306, 48.8561051636]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "7bc3640db9cdacef5e8f64878bf2ababd18b9373",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 10h \u00e0 17h30",
+      "nom_du_musee": "Galerie d'Anatomie Compar\u00e9e et de Pal\u00e9ontologie (Mus\u00e9um d'Histoire Naturelle)",
+      "adr": "Jardin des Plantes 2, rue Buffon",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140795448",
+      "coordonnees_finales": [48.844407753, 2.350655453],
+      "sitweb": "www.mnhn.fr",
+      "ref_musee": "7510508",
+      "telephone1": "0140795601",
+      "fermeture_annuelle": "1er mai",
+      "cp": "75005",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.350655453, 48.844407753] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "cff8f3bef6636d5a29570ff7f0ffea174a11e3b6",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert le mardi, mercredi, vendredi au dimanche de 9h30 \u00e0 18h, le jeudi de 9h30 \u00e0 21h45",
+      "nom_du_musee": "Etablissement public du mus\u00e9e d'Orsay et de l'Orangerie - Mus\u00e9e d'Orsay",
+      "jours_nocturnes": "Jeudi jusqu'\u00e0 21h45",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0145485660",
+      "coordonnees_finales": [48.859754, 2.325917],
+      "sitweb": "www.musee-orsay.fr",
+      "ref_musee": "7510705",
+      "telephone1": "0140494814",
+      "fermeture_annuelle": "Jours f\u00e9ri\u00e9s",
+      "adr": "62, Rue de Lille",
+      "cp": "75007",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.325917, 48.859754] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "589e924e65d751b2478fdb2e1d2c7b1258b68c6a",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 9h30 \u00e0 17h",
+      "nom_du_musee": "Mus\u00e9e National Eug\u00e8ne Delacroix",
+      "adr": "6, Rue Furstenberg",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143543670",
+      "coordonnees_finales": [48.854437, 2.335771],
+      "sitweb": "www.musee-delacroix.fr",
+      "ref_musee": "7510602",
+      "telephone1": "0144418650",
+      "fermeture_annuelle": "14 juillet",
+      "cp": "75006",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.335771, 48.854437] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "0e8a6bf243a3cba5c450c28915b57c47ffb2f415",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert de mardi au jeudi et samedi, dimanche de 12 h \u00e0 18 h",
+      "nom_du_musee": "Mus\u00e9e du Service de Sant\u00e9 des Arm\u00e9es du Val-de-Gr\u00e2ce",
+      "adr": "1, Place Alphonse Laveran",
+      "ville": "PARIS Cedex 05",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0140515193",
+      "ref_musee": "7510516",
+      "telephone1": "0140515192",
+      "sitweb": "www.valdegrace.org",
+      "cp": "75230",
+      "date_appellation": "13/12/2006"
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "611419d03a7e5e31cdab72ee51970f33e2a689bb",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e Bourdelle",
+      "adr": "16, Rue Antoine Bourdelle",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0145442165",
+      "coordonnees_finales": [48.843017, 2.31883],
+      "ref_musee": "7511502",
+      "telephone1": "0149547373",
+      "sitweb": "www.bourdelle.paris.fr",
+      "cp": "75015",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.31883, 48.843017] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "715c9b55a2aeb776a7e8f93ec479ea7dc577e1fa",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10h \u00e0 18h",
+      "nom_du_musee": "Petit Palais, Mus\u00e9e des Beaux-Arts de la ville de Paris",
+      "jours_nocturnes": "Mardi jusqu'\u00e0 20h",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0142652460",
+      "coordonnees_finales": [48.86609, 2.313763],
+      "ref_musee": "7510808",
+      "telephone1": "0142651273",
+      "sitweb": "www.petitpalais.paris.fr",
+      "adr": "Avenue Winston-Churchill",
+      "cp": "75008",
+      "date_appellation": "08/07/2004"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.313763, 48.86609] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "79bb20f7edda49cf087c7a1da6aae74e96dc0de0",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 11h \u00e0 18h, nocturne le vendredi jusqu\u2019\u00e0 21h",
+      "nom_du_musee": "Mus\u00e9e Yves Saint Laurent",
+      "jours_nocturnes": "Vendredi jusqu'\u00e0 21h",
+      "ville": "PARIS Cedex 16",
+      "region": "\u00ceLE-DE-France",
+      "coordonnees_finales": [48.867895, 2.298877],
+      "sitweb": "https://museeyslparis.com/",
+      "ref_musee": "7511619",
+      "telephone1": "0144316400",
+      "fermeture_annuelle": "1er janvier, 1er mai et 25 d\u00e9cembre",
+      "adr": "5, Avenue Marceau",
+      "cp": "75116",
+      "date_appellation": "10/07/2017"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.298877, 48.867895] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "e9bec767d209d3875c7303b2d64cff1247357072",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au dimanche de 11h \u00e0 18h",
+      "nom_du_musee": "Mus\u00e9e National Jean-Jacques Henner",
+      "jours_nocturnes": "Nocturne jusqu'\u00e0 21h le deuxi\u00e8me jeudi de chaque mois.",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0143800082",
+      "coordonnees_finales": [48.883045, 2.307689],
+      "sitweb": "http://www.musee-henner.fr/",
+      "ref_musee": "7511701",
+      "telephone1": "0147636437",
+      "fermeture_annuelle": "1er janvier, 1er mai, dimanche et lundi de Pentec\u00f4te, 14 juillet, 15 ao\u00fbt, No\u00ebl",
+      "adr": "43, Avenue de Villiers",
+      "cp": "75017",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.307689, 48.883045] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "0381f1ede47fbf0ac71c55cd22e4bc4bfb99fe34",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au dimanche de 10h \u00e0 17h30",
+      "nom_du_musee": "Mus\u00e9e Nissim de Camondo (Les Arts D\u00e9coratifs)",
+      "adr": "63, Rue de Monceau",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0153890642",
+      "coordonnees_finales": [48.878849, 2.312855],
+      "sitweb": "www.lesartsdecoratifs.fr/",
+      "ref_musee": "7510801",
+      "telephone1": "0153890650",
+      "fermeture_annuelle": "1er janvier, 1er mai, 15 ao\u00fbt et 25 d\u00e9cembre",
+      "cp": "75008",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.312855, 48.878849] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "92d9d837f65eab7629a64ee36b4f4efd092e5743",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert tous les jours de 10h \u00e0 17h Du 1er avril au 30 septembre : 10h - 18h, les samedis, dimanches et jours f\u00e9ri\u00e9s",
+      "nom_du_musee": "Galerie de Botanique (Mus\u00e9um National National d'Histoire Naturelle)",
+      "adr": "18 rue Buffon",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "coordonnees_finales": [48.842024, 2.359052],
+      "sitweb": "www.mnhn.fr",
+      "ref_musee": "7510507",
+      "fermeture_annuelle": "1er janvier, 1er mai, 25 d\u00e9cembre",
+      "cp": "75005",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.359052, 48.842024] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "b341385702f7657a314f02c85bf0d41bd32d5f52",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert de 10h \u00e0 18h d'octobre \u00e0 mars et de 10h \u00e0 19h d'avril \u00e0 septembre",
+      "nom_du_musee": "Mus\u00e9e de Montmartre",
+      "adr": "12, Rue Cortot",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0146063075",
+      "coordonnees_finales": [48.887709, 2.340577],
+      "ref_musee": "7511801",
+      "telephone1": "0149258937",
+      "sitweb": "www.museedemontmartre.fr",
+      "cp": "75018",
+      "date_appellation": "01/02/2003"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.340577, 48.887709] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "cf8671c8ecc1cefd50e653ec95aba14cb852247b",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au vendredi de 10h \u00e0 17h30 et le samedi et dimanche de 10h \u00e0 19h",
+      "nom_du_musee": "\u00c9tablissement Public de la Porte Dor\u00e9e - Mus\u00e9e de l\u2019Histoire de l\u2019Immigration",
+      "adr": "Palais de la Porte Dor\u00e9e 293, avenue Daumesnil",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0153595866",
+      "coordonnees_finales": [48.8347421662, 2.42053665524],
+      "sitweb": "http://www.palais-portedoree.fr/",
+      "ref_musee": "7511202",
+      "telephone1": "0153595860",
+      "fermeture_annuelle": "25 d\u00e9cembre ,  1er janvier, 24 mars, 1er mai, 12 mai et 14 juillet 2008",
+      "cp": "75012",
+      "date_appellation": "16/11/2006"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.42053665524, 48.8347421662]
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "b38d9489e43f98f0740b53afae688c547764cec3",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mardi au dimanche de 10 h \u00e0 18h, jeudi jusqu'\u00e0 21h30",
+      "nom_du_musee": "Mus\u00e9e National des Techniques (Conservatoire National des Arts et M\u00e9tiers)",
+      "jours_nocturnes": "Jeudi jusqu'\u00e0 21 h 30",
+      "ville": "PARIS cedex 03",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0153018201",
+      "sitweb": "www.arts-et-metiers.net",
+      "ref_musee": "7510304",
+      "telephone1": "0153018200",
+      "fermeture_annuelle": "1er mai, 25 d\u00e9cembre",
+      "adr": "292, rue Saint-Martin",
+      "cp": "75141",
+      "date_appellation": "06/01/2002"
+    },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  },
+  {
+    "datasetid": "liste_des_musees_franciliens",
+    "recordid": "c053fde01296e4119fc8786cd09674581930809c",
+    "fields": {
+      "departement": "PARIS",
+      "periode_ouverture": "Ouvert du mercredi au lundi de 10h \u00e0 12h45 et de 14h \u00e0 17h15",
+      "nom_du_musee": "Mus\u00e9e National Gustave Moreau",
+      "adr": "14, Rue de la Rochefoucauld",
+      "ville": "PARIS",
+      "region": "\u00ceLE-DE-France",
+      "fax": "0148741871",
+      "coordonnees_finales": [48.877878, 2.334383],
+      "sitweb": "www.musee-moreau.fr",
+      "ref_musee": "7510901",
+      "telephone1": "0148743850",
+      "fermeture_annuelle": "1er janvier, 1er mai, 25 d\u00e9cembre",
+      "cp": "75009",
+      "date_appellation": "06/01/2002"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.334383, 48.877878] },
+    "record_timestamp": "2020-01-22T17:51:09.788+01:00"
+  }
+]
