@@ -30,7 +30,7 @@ router.get("/museums", (req, res, next) => {
 
 
 
-router.get(`/search?q=${query}`, (req, res, next) => {
+router.get(`/search?q=`, (req, res, next) => {
     Monuments.find()
     .then((monumentsRes) => {
         Museums.find()
