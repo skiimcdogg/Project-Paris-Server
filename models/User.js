@@ -9,10 +9,7 @@ const userSchema = new Schema({
     enum: ["admin", "user"],
     default: "admin",
   },
-  favorites: {
-    favMonuments: [{ type: Schema.Types.ObjectId, ref: "Monuments" }],
-    favMuseums: [{ type: Schema.Types.ObjectId, ref: "Museums" }],
-  },
+  favorites: [{ type: Schema.Types.ObjectId, ref: "favorites" }],
   comments: [{ type: Schema.Types.ObjectId, ref: "comments" }],
 });
 

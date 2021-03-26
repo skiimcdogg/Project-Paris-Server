@@ -48,18 +48,20 @@ app.use(function (req, res, next) {
 const authRouter = require("./routes/auth");
 const placesRouter = require("./routes/places")
 const commentsRouter = require("./routes/comments")
+const favoritesRouter = require("./routes/favorites")
 const userRouter = require("./routes/user")
 
 app.use("/api/auth", authRouter);
 app.use("/api/places", placesRouter);
 app.use("/api/comments", commentsRouter);
+app.use("/api/favorites", favoritesRouter);
 app.use("/api/user", userRouter);
 
 // 404 Middleware
 app.use((req, res, next) => {
   const error = new Error("Ressource not found.");
   error.status = 404;
-  next(err);
+  next(error);
 });
 
 app.use(require("./middlewares/isLoggedIn"));
