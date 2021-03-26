@@ -14,7 +14,10 @@ const cors = require("cors");
 /**
  * Middlewares
  */
+
+
 const corsOptions = { origin: process.env.FRONTEND_URL, credentials: true };
+
 
 app.use(cors(corsOptions));
 app.use(logger("dev")); // This logs HTTP reponses in the console.
@@ -45,10 +48,12 @@ app.use(function (req, res, next) {
 const authRouter = require("./routes/auth");
 const placesRouter = require("./routes/places")
 const commentsRouter = require("./routes/comments")
+const userRouter = require("./routes/user")
 
 app.use("/api/auth", authRouter);
 app.use("/api/places", placesRouter);
 app.use("/api/comments", commentsRouter);
+app.use("/api/user", userRouter);
 
 // 404 Middleware
 app.use((req, res, next) => {
@@ -56,6 +61,9 @@ app.use((req, res, next) => {
   error.status = 404;
   next(err);
 });
+
+app.use(require("./middlewares/isLoggedIn"));
+app.use(require("./middlewares/protectAdminRoute"));
 
 // Error handler middleware
 // If you pass an argument to your next function in any of your routes or middlewares
