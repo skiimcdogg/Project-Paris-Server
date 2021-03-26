@@ -15,6 +15,29 @@ router.get("/", protectAdmin, (req, res, next) => { // For the admin to retrieve
     });
 });
 
+router.patch("/edit/:id", isLoggedIn, (req, res, next) => {
+  const { firstName, lastName } = req.body;
+  const updatedUser = { ...req.body };
+  UserModel.findByIdAndUpdate(req.params.id, updatedUser, {new: true})
+    .then((response) => {
+      res.status(200).json({ response });
+    })
+    .catch((err) => {
+      next(err);
+    });
+});
+
+
+router.delete("/delete/:id", isLoggedIn, (req, res, next) => { 
+    UserModel.findByIdAndDelete(req.params.id)
+    .then(() => {
+        res.status(200).json({message: "User Deleted"})
+    })
+    .catch((err) => {
+        next(err)
+    })
+})
+
 router.get("/:id", isLoggedIn, (req, res, next) => { // For a user to retrieve his account page.
   const foundUser = req.params.id;
   const connectedUser = req.session.currentUser._id;
@@ -31,15 +54,5 @@ router.get("/:id", isLoggedIn, (req, res, next) => { // For a user to retrieve h
       res.status(400).json({message: "it's not your account"})
   }
 });
-
-router.delete("/delete/:id", isLoggedIn, (req, res, next) => { 
-    UserModel.findByIdAndDelete(req.params.id)
-    .then(() => {
-        res.status(200).json({message: "User Deleted"})
-    })
-    .catch((err) => {
-        next(err)
-    })
-})
 
 module.exports = router;
