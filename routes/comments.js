@@ -12,13 +12,14 @@ router.get("/", isLoggedIn, (req, res, next) => {
     .catch(next);
 });
 
-router.post("/new/:id", isLoggedIn, (req, res, next) => {
-  const { content, rating } = req.body;
+
+router.post("/new/monument/:id", isLoggedIn, (req, res, next) => {
+  const { content,rating } = req.body;
   const newComment = {
     content,
     rating,
     user: req.session.currentUser._id,
-    placeMuseum: req.params.id,
+    placeMuseum: null,
     placeMonument: req.params.id
   };
   Comments.create(newComment)
@@ -31,6 +32,50 @@ router.post("/new/:id", isLoggedIn, (req, res, next) => {
     })
     .catch(next);
 });
+
+
+router.post("/new/museum/:id", isLoggedIn, (req, res, next) => {
+  const { content,rating } = req.body;
+  const newComment = {
+    content,
+    rating,
+    user: req.session.currentUser._id,
+    placeMonument: null,
+    placeMuseum: req.params.id,
+  };
+  Comments.create(newComment)
+    .then((createdComment) => {
+        const comId = createdComment._id
+        User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$push: {comments: comId}}, {new: true})
+        .then((comRes) => {
+            res.status(200).json(comRes);
+        })
+    })
+    .catch(next);
+});
+
+
+
+
+// router.post("/new/:id", isLoggedIn, (req, res, next) => {
+//   const { content, rating } = req.body;
+//   const newComment = {
+//     content,
+//     rating,
+//     user: req.session.currentUser._id,
+//     placeMuseum: req.params.id,
+//     placeMonument: req.params.id
+//   };
+//   Comments.create(newComment)
+//     .then((createdComment) => {
+//         const comId = createdComment._id
+//         User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$push: {comments: comId}}, {new: true})
+//         .then((comRes) => {
+//             res.status(200).json(comRes);
+//         })
+//     })
+//     .catch(next);
+// });
 
 router.patch("/edit/:id", isLoggedIn, (req, res, next) => {
   const { content, rating } = req.body;
