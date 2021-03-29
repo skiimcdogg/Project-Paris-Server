@@ -55,6 +55,10 @@ router.get("/isLoggedIn", (req, res, next) => {
   
   User.findById(id)
     .select("-password")
+    .populate({path: "favorites",
+  populate : {path: "favMonuments"}})
+    .populate({path: "favorites",
+  populate : {path: "favMuseums"}})
     .then((userDocument) => {
       res.status(200).json(userDocument);
     })
