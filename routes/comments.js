@@ -13,9 +13,10 @@ router.get("/", isLoggedIn, (req, res, next) => {
 });
 
 router.post("/new/:id", isLoggedIn, (req, res, next) => {
-  const { content } = req.body;
+  const { content, rating } = req.body;
   const newComment = {
     content,
+    rating,
     user: req.session.currentUser._id,
     placeMuseum: req.params.id,
     placeMonument: req.params.id
@@ -32,7 +33,7 @@ router.post("/new/:id", isLoggedIn, (req, res, next) => {
 });
 
 router.patch("/edit/:id", isLoggedIn, (req, res, next) => {
-  const { content } = req.body;
+  const { content, rating } = req.body;
   Comments.findByIdAndUpdate(req.params.id, req.body, {new: true})
     .then((updatedComment) => {
       res.status(200).json(updatedComment);
