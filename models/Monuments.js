@@ -2,7 +2,8 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const monumentSchema = new Schema({
- fields:  Object
+ fields:  Object,
+ display: { type: Boolean, default: true }
 // commune
 // adrs
 // insee
