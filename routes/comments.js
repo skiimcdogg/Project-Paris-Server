@@ -4,7 +4,7 @@ const Comments = require("./../models/Comments");
 const User = require("./../models/User");
 const isLoggedIn = require("./../middlewares/isLoggedIn")
 
-router.get("/", isLoggedIn, (req, res, next) => {
+router.get("/", (req, res, next) => {
   Comments.find()
   .then((comments) => {
     res.status(200).json(comments)
