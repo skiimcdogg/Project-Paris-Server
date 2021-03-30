@@ -35,8 +35,8 @@ router.post("/add/:id", isLoggedIn, (req, res, next) => {
 router.delete("/delete/:id", isLoggedIn, (req, res, next) => {
   Favorites.findByIdAndDelete(req.params.id)
     .then((response) => {
-        User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$pull: {favorites: {id: req.params.id}}})
-        res.status(200).json({ message: "Successfully deleted"})
+        // User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$pull: {favorites: {id: req.params.id}}})
+        res.status(200).json(response)
     })
     .catch(next);
 });
