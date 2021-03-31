@@ -14,23 +14,38 @@ router.get("/", isLoggedIn, (req, res, next) => {
     .catch(next);
 });
 
-router.post("/add/:id", isLoggedIn, (req, res, next) => {
+// router.post("/add/:id", isLoggedIn, (req, res, next) => {
+//   const newFav = {
+//     favMuseums: req.params.id,
+//     favMonuments: req.params.id
+//   };
+//   Favorites.create(newFav)
+//     .then((createdFav) => {
+//         const favId = createdFav._id
+//         User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$push: {favorites: favId}}, {new: true})
+//         .then((favRes) => {
+//             res.status(200).json(favRes);
+//         })
+//     })
+//     .catch(next);
+// });
+
+router.post("/add/:id", isLoggedIn, async (req, res, next) => {
   const newFav = {
     favMuseums: req.params.id,
     favMonuments: req.params.id
   };
-  Favorites.create(newFav)
-    .then((createdFav) => {
-        const favId = createdFav._id
-        User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$push: {favorites: favId}}, {new: true})
-        .then((favRes) => {
-            res.status(200).json(favRes);
-        })
-    })
-    .catch(next);
+  try{
+  let createdFav = await Favorites.create(newFav)
+  const favId = createdFav._id
+  let updatedUser = await User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$push: {favorites: favId}}, {new: true}).select("-password")
+  updatedUser = await updatedUser.populate('favorites').execPopulate()
+   res.status(200).json(updatedUser);
+    }
+    catch (err) {
+      next(err);
+    }
 });
-
-// {$pull: {members: {tweetID: '5327010328645530500'}}}
 
 router.delete("/delete/:id", isLoggedIn, (req, res, next) => {
   Favorites.findByIdAndDelete(req.params.id)
