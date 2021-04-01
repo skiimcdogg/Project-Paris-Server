@@ -9,7 +9,7 @@ const userSchema = new Schema({
   role: {
     type: String,
     enum: ["admin", "user"],
-    default: "admin",
+    default: "user",
   },
   favorites: [{ type: Schema.Types.ObjectId, ref: "favorites" }],
   comments: [{ type: Schema.Types.ObjectId, ref: "comments" }],
